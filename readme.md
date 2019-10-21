@@ -1,7 +1,7 @@
-##Team Turkey
+## Team Turkey
 
-###Team leader
+### Team leader
 ~~~~
-####Heejun Jang (28)
-####sex : Male
-####major : Ukraine language
+#### Heejun Jang (28)
+#### sex : Male
+#### major : Ukraine language
